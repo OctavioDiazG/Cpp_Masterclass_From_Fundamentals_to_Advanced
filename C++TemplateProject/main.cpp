@@ -9,3 +9,8 @@ int main(){
     std::cout << "value : " << value << std::endl;
     return 0;
 }
+
+
+
+
+//Remember to Start VS Code with Developer PowerShell for VS runing the comand: code .
